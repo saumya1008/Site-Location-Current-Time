@@ -1,0 +1,6 @@
+name: Site Location And Current Time
+type: module
+core: 8.x
+description: 'Contains functionality for site location and current time'
+package: Custom
+core_version_requirement: ^8 || ^9
